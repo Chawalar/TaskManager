@@ -96,7 +96,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="R30-2x-9zC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="6zc-1J-M1O" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1706" y="73"/>
+            <point key="canvasLocation" x="957" y="73"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="UEb-r9-tpu">
@@ -116,29 +116,7 @@
             </objects>
             <point key="canvasLocation" x="-699" y="73"/>
         </scene>
-        <!--Navigation Controller-->
-        <scene sceneID="o3Z-Lu-tRF">
-            <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="VNX-tn-hO4" sceneMemberID="viewController">
-                    <toolbarItems/>
-                    <navigationItem key="navigationItem" id="efP-c5-iF1"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="iNN-yq-v2b">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </navigationBar>
-                    <nil name="viewControllers"/>
-                    <connections>
-                        <segue destination="r0Q-6h-fzS" kind="relationship" relationship="rootViewController" id="E8a-hp-ytS"/>
-                    </connections>
-                </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="9pr-71-feG" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="928.98550724637687" y="72.991071428571431"/>
-        </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="Ov5-6t-R9Q"/>
-    </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
